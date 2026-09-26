@@ -1,0 +1,1 @@
+document.querySelector('.menu-btn')?.addEventListener('click',()=>document.querySelector('.topbar').classList.toggle('open'));

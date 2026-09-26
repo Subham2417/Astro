@@ -1,0 +1,1 @@
+const script=document.createElement('script');script.src='https://cdn.jsdelivr.net/npm/astronomy-engine@2.1.19/astronomy.browser.min.js';script.onload=()=>window.dispatchEvent(new Event('astro-ready'));document.head.appendChild(script);
